@@ -1,0 +1,9 @@
+1.Get value in celsius.
+
+2.Multipliy the celsius value by 9/5.
+
+3.Add 32 to the value from the step 2.
+
+4.Print the final value in fahrenheit.
+
+5. Stop.

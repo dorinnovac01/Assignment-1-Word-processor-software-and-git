@@ -1,0 +1,11 @@
+1.Get the numbers.
+
+2.Compare two numbers.
+
+3.Keep the biggest number out of the two.
+
+4.Repeat steps 2 to 3 until there is 1 number left.
+
+5.Print the remaining number as the biggest one.
+
+6.Stop.
